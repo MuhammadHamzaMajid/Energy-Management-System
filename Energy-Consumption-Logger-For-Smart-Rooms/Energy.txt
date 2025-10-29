@@ -1,0 +1,102 @@
+On today's date:
+Thu Mar 14 23:03:04 2024
+
+
+
+In the Living Room:
+
+The Temperature Sensor was turned on for:6 hours.
+Energy consumed by Temperature Sensor:	 900 KJ
+
+The Humidity Sensor was turned on for:	 1 hours.
+Energy consumed by Humidity Sensor:	 125 KJ
+
+The Motion Sensor was turned on for:	 10.0 hours.
+Energy consumed by Motion Sensor:	 1000.00 KJ
+
+Total Energy Consumption in the Living Room:	 2025.00 KJ
+
+
+In the BedRoom:
+
+The Temperature Sensor was turned on for:3 hours.
+Energy consumed by Temperature Sensor:	 450 KJ
+
+The Humidity Sensor was turned on for:	 0 hours.
+Energy consumed by Humidity Sensor:	 0 KJ
+
+The Motion Sensor was turned on for:	 0.0 hours.
+Energy consumed by Motion Sensor:	 0.00 KJ
+
+Total Energy Consumption in the bedroom:	 450.00 KJ
+
+
+In the Kitchen:
+
+The Temperature Sensor was turned on for:3 hours.
+Energy consumed by Temperature Sensor:	 450 KJ
+
+The Humidity Sensor was turned on for:	 0 hours.
+Energy consumed by Humidity Sensor:	 0 KJ
+
+The Motion Sensor was turned on for:	 0.0 hours.
+Energy consumed by Motion Sensor:	 0.00 KJ
+
+Total Energy Consumption in the kitchen:	 450.00 KJ
+
+
+Total energy consumption:			 2925.00 KJ
+
+
+
+On today's date:
+Thu Mar 14 23:32:08 2024
+
+
+
+In the Living Room:
+
+The Temperature Sensor was turned on for:14 hours.
+Energy consumed by Temperature Sensor:	 2100 KJ
+
+The Humidity Sensor was turned on for:	 14 hours.
+Energy consumed by Humidity Sensor:	 1750 KJ
+
+The Motion Sensor was turned on for:	 4.0 hours.
+Energy consumed by Motion Sensor:	 400.00 KJ
+
+Total Energy Consumption in the Living Room:	 4250.00 KJ
+
+
+In the BedRoom:
+
+The Temperature Sensor was turned on for:13 hours.
+Energy consumed by Temperature Sensor:	 1950 KJ
+
+The Humidity Sensor was turned on for:	 17 hours.
+Energy consumed by Humidity Sensor:	 2125 KJ
+
+The Motion Sensor was turned on for:	 0.0 hours.
+Energy consumed by Motion Sensor:	 0.00 KJ
+
+Total Energy Consumption in the bedroom:	 4075.00 KJ
+
+
+In the Kitchen:
+
+The Temperature Sensor was turned on for:11 hours.
+Energy consumed by Temperature Sensor:	 1650 KJ
+
+The Humidity Sensor was turned on for:	 19 hours.
+Energy consumed by Humidity Sensor:	 2375 KJ
+
+The Motion Sensor was turned on for:	 0.0 hours.
+Energy consumed by Motion Sensor:	 0.00 KJ
+
+Total Energy Consumption in the kitchen:	 4025.00 KJ
+
+
+Total energy consumption:			 12350.00 KJ
+
+
+

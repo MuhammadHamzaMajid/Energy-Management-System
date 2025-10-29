@@ -1,0 +1,11 @@
+
+    MONTHLY BILL   
+Username:	ABCDE_WXYZ
+House Number:	12345
+Email address:	qwerty@gmail.com
+Phone number:	+36-704026231
+Meter number:	786687
+Units consumed:	61
+Cost applied per unit:	2.75
+BILL FOR THE MONTH = 167.75 Pounds
+
